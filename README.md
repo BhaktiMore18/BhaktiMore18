@@ -11,6 +11,7 @@ Let’s build something amazing together! 🚀
 ## Holopin Dashboard 💫
 [![An image of @bhaktimore18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhaktimore18)](https://holopin.io/@bhaktimore18)
 
+## Github Stats 📊
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhaktiMore18&layout=compact&theme=tokyonight) 
 
 
