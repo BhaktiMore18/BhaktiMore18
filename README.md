@@ -14,6 +14,13 @@ Let’s build something amazing together! 🚀
 ## Github Stats 📊
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhaktiMore18&layout=compact&theme=tokyonight) 
 
+## Github Trophies 🏆
+
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=BhaktiMore18&theme=algolia&margin-w=15&margin-h=15&title=-Stars,-Reviews)
+
+
+
+
 
 <!--
 **BhaktiMore18/BhaktiMore18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
